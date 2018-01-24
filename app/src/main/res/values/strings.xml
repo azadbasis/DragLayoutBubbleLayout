@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoProject-23january</string>
+    <string name="customer_review_question">Happy</string>
+    <string name="positive_feedback_text">OK</string>
+    <string name="negative_feedback_text">NO</string>
+    <string name="ambiguity_feedback_text">Not Sure</string>
+</resources>
